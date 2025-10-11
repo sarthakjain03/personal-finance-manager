@@ -1,4 +1,4 @@
-export const axiosBaseUrl = import.meta.env.VITE_AXIOS_BASE_URL;
+export const axiosBaseUrl = import.meta.env.VITE_BACKEND_URL;
 
 export const googleClientId = import.meta.env.VITE_GOOGLE_CLIENT_ID;
 export const googleClientSecret = import.meta.env.VITE_GOOGLE_CLIENT_SECRET;
