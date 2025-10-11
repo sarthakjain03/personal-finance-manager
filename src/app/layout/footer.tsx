@@ -18,7 +18,7 @@ const Footer = ({ isLandingView = false }) => {
           <div className="flex flex-col gap-3 text-sidemain">
             <p className="font-medium">LINKS</p>
             <div className="flex flex-col gap-2 text-sm">
-              <a href="mailto:sarthakjain.tech@gmail.com">Support</a>
+              <a href="mailto:sarthakjain@personance.in">Support</a>
               <a href="https://x.com/jsarthak110" target="_blank">
                 Creator's X (Twitter)
               </a>
