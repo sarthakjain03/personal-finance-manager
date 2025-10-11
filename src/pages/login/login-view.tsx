@@ -23,7 +23,7 @@ const LoginPage = () => {
               className="text-3xl font-semibold text-sidemain cursor-pointer"
               onClick={() => navigate("/")}
             >
-              FinSphere
+              Personance
             </p>
           </div>
           <p className="text-center text-gray-600">

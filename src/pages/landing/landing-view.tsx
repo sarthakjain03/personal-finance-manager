@@ -30,7 +30,7 @@ const features = [
 const steps = [
   {
     title: "Open your account on our platform",
-    description: "Sign up on FinSphere using your google account",
+    description: "Sign up on Personance using your google account",
   },
   {
     title: "Add your objectives and expenses",
@@ -128,7 +128,7 @@ const LandingPage = () => {
                   variants={fadeInUp}
                   className="w-full md:w-2/5 text-sm"
                 >
-                  FinSphere is a powerful financial management tool that helps
+                  Personance is a powerful financial management tool that helps
                   reduce your financial stress and build real wealth. No
                   sensitive data required.
                 </motion.p>

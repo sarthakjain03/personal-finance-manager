@@ -22,7 +22,7 @@ const PrivacyPolicyView = () => {
           <h1 className="text-3xl font-semibold">Privacy Policy</h1>
           <p>Effective Date: July 01, 2025</p>
           <p>
-            Welcome to FinSphere! This Privacy Policy explains how we collect,
+            Welcome to Personance! This Privacy Policy explains how we collect,
             use, and protect your personal information. By using our website,
             you agree to the terms of this Privacy Policy.
           </p>
@@ -46,7 +46,7 @@ const PrivacyPolicyView = () => {
             please contact us at sarthakjain.tech@gmail.com.
           </p>
           <p>
-            By using FinSphere, you agree to the terms outlined in this Privacy
+            By using Personance, you agree to the terms outlined in this Privacy
             Policy.
           </p>
         </div>

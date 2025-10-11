@@ -22,13 +22,13 @@ const TermsOfServiceView = () => {
           <h1 className="text-3xl font-semibold">Terms of Service</h1>
           <p>Effective Date: July 01, 2025</p>
           <p>
-            Welcome to FinSphere! These Terms of Service ("Terms") govern your
+            Welcome to Personance! These Terms of Service ("Terms") govern your
             use of our website and services. By accessing or using our platform,
             you agree to these Terms.
           </p>
           <p>1. Overview</p>
           <p>
-            FinSphere is a platform that allows you to track your expenses, set
+            Personance is a platform that allows you to track your expenses, set
             financial goals, and create a budget. It does not collect any
             personal bank related information from you.
           </p>
@@ -41,9 +41,7 @@ const TermsOfServiceView = () => {
             If you have any questions or concerns about this Privacy Policy,
             please contact us at sarthakjain.tech@gmail.com.
           </p>
-          <p>
-            By using FinSphere, you acknowledge and agree to these Terms.
-          </p>
+          <p>By using Personance, you acknowledge and agree to these Terms.</p>
         </div>
       </div>
     </div>

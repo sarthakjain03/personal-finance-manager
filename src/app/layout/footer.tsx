@@ -11,7 +11,7 @@ const Footer = ({ isLandingView = false }) => {
         <div className="flex gap-2 items-center">
           <Receipt color="#2A8E9E" size={24} />
           <p className="text-2xl font-semibold text-sidemain w-full md:w-1/2">
-            FinSphere
+            Personance
           </p>
         </div>
         <div className="w-full md:w-1/2 flex flex-wrap justify-between md:justify-around gap-6 md:gap-0">
@@ -43,7 +43,7 @@ const Footer = ({ isLandingView = false }) => {
         </div>
       </div>
       <p className="text-center text-bgSecondary text-sm font-medium">
-        Copyright © FinSphere 2025. All rights reserved.
+        Copyright © Personance 2025. All rights reserved.
       </p>
     </footer>
   );
